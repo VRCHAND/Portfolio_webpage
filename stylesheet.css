@@ -1,0 +1,43 @@
+.header-page{
+    background-image: url('https://ik.imagekit.io/houseofcoders/wp-content/uploads/2017/10/portfolio-background.png');
+    background-size: cover;/**/
+    padding-bottom: 28px;
+    color:white;
+    font-family:sans-serif;
+}
+.navigation-bar{
+    text-align:center;
+    font-size: 30px;
+    padding-top: 40px;
+    
+}
+.nav-style{
+    color:rgba(40, 147, 189, 0.979);
+    text-decoration: underline;
+    padding-right:10px;
+}
+
+.header-title{
+    padding-top :90px;
+    padding-bottom:90px;
+    margin-left:100px;
+    text-align:bottom;
+    font-size:30px;
+}
+.page-format{
+    width:1100px;
+    margin:0 auto;
+    font-family:sans-serif;
+    font-size:20px;
+}
+.Center-heading{
+    text-align:center;
+    font-size:38px;
+}
+.contacts{
+    text-align:center;
+}
+.image_format{
+    width:50px;
+    padding-bottom: 20px;
+}
